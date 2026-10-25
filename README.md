@@ -1,5 +1,7 @@
 Caesar Cipher Encryption Tool
+
 Overview
+
 This project is a Python-based command-line application that demonstrates basic encryption and decryption using a Caesar Cipher. The program allows users to encode and decode messages by shifting alphabetic characters 15 positions through the alphabet while preserving uppercase and lowercase letters.
 
 The project was completed as part of my cybersecurity studies to strengthen my understanding of encryption concepts, character manipulation, and Python programming fundamentals.
