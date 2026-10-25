@@ -106,6 +106,6 @@ Through this project, I gained practical experience working with:
 
 ## Author
 
-Tony [Last Name]
+Tony Sarna
 
 Cybersecurity Student | Python Developer
