@@ -108,4 +108,4 @@ Through this project, I gained practical experience working with:
 
 Anthony Sarna
 
-Aspiring Cybersecurity Professional | Python Developer
+Python Developer | Aspiring Cybersecurity Professional
